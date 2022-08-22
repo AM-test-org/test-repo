@@ -1,1 +1,2 @@
 Test Jira - GitHub
+test z komentarzem z GitHuba - public repo
